@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/cmelby/MyFast#readme",
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "bcrypt": "^4.0.1",
     "bcrypt-nodejs": "0.0.3",
     "cors": "^2.8.5",
